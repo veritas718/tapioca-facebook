@@ -233,4 +233,8 @@ RESOURCE_MAPPING = {
         'resource': '{id}/sharedposts',
         'docs': 'https://developers.facebook.com/docs/graph-api/reference/v2.2/object/sharedposts'
     },
+    'campaigns': {
+        'resource': '{id}/campaigns',
+        'docs': 'https://developers.facebook.com/docs/marketing-api/reference/ad-campaign-group'
+    },
 }
